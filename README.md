@@ -41,7 +41,7 @@ hand lettering, brush lettering y caligrafia
  </div>
 <div style="float:center">
 <h2>
-Precios de
+Precios de electrodomesticos
 </h2>
 <table border="l" style= "background-color:aqua">
 <tr>
